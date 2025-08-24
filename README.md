@@ -32,3 +32,6 @@ A new transformer attention mechanism via fibrations.
 
 'Fibformer - a fibration transformer'
 The generic transform attention mechanism (for sequence-to-sequence or next-token) applies a feed forward neural network element wise to query updates to introduce non-linearity in update refinement.  In contrast, we learn a lifting neural network for a fibration, that takes into account the semantics of the key-value pairing by abductively choosing a key that explains a continuation value.
+
+
+'Formal query updating' introduces a formalism to generate query update algorithms founded on standard and fibration attention primitives.
