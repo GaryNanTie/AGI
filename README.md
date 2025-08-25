@@ -36,4 +36,4 @@ The generic transform attention mechanism (for sequence-to-sequence or next-toke
 
 'Formal query updating' introduces a formalism to generate query update algorithms founded on standard and fibration attention primitives.
 
-'Multi-head abductice attention' Transformer multi-head attention can focus on different parts of an input query sequence, however without regard to potentially different key-value semantics.  We introduce an additional primitive to the vocabulary of formal query updating.  The new construct updates a query in parallel, learning multi-head abductive fibration liftings, to refine similarity based attention, utilizing the semantics of multiple key-value pairings.
+'Multi-head abductive attention' Transformer multi-head attention can focus on different parts of an input query sequence, however without regard to potentially different key-value semantics.  We introduce an additional primitive to the vocabulary of formal query updating.  The new construct updates a query in parallel, learning multi-head abductive fibration liftings, to refine similarity based attention, utilizing the semantics of multiple key-value pairings.
