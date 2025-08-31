@@ -45,3 +45,6 @@ Query context also carries meaning.
 We introduce an abductive fibration attention model that holistically captures both.  
 A fibration lifting, jointly learns from query context and language semantics 
 (that abductively finds a key to best explain the returned value).
+
+
+'Deep Fibration Attention' - meta abduction semantics for query updating.
