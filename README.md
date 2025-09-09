@@ -48,3 +48,8 @@ A fibration lifting, jointly learns from query context and language semantics
 
 
 'Deep Fibration Attention' - meta abduction semantics for query updating.
+
+
+'Attention Legos' - Fibration abductive attention building blocks for machines to learn world models.
+
+
