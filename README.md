@@ -53,3 +53,6 @@ A fibration lifting, jointly learns from query context and language semantics
 'Attention Legos' - Fibration abductive attention building blocks for machines to learn world models.
 
 
+'Jury Attention' - To address the Rashomon effect when multiple key-value semantics are present, we introduce a jury attention mechanism via fibrations.  This accomplishes query updates that take into account differing world views.
+
+
