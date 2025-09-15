@@ -56,3 +56,4 @@ A fibration lifting, jointly learns from query context and language semantics
 'Jury Attention' - To address the Rashomon effect when multiple key-value semantics are present, we introduce a jury attention mechanism via fibrations.  This accomplishes query updates that take into account differing world views.
 
 
+'Fibration Attention Dynamics' - We characterize the dynamics of query updating coming from fibration abductive attention mechanisms, using perturbed Koopman operators that are invertible.  Importantly, we identify conditions for Lyapunov stability of solutions near equilibrium points.  Depending on the Koopman resolvent, some key-value pairings can have query update trajectories that are Lyapunov stable.
