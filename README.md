@@ -57,3 +57,7 @@ A fibration lifting, jointly learns from query context and language semantics
 
 
 'Fibration Attention Dynamics' - We characterize the dynamics of query updating coming from fibration abductive attention mechanisms, using perturbed Koopman operators that are invertible.  Importantly, we identify conditions for Lyapunov stability of solutions near equilibrium points.  Depending on the Koopman resolvent, some key-value pairings can have query update trajectories that are Lyapunov stable.
+
+
+'Quantum Attention' - The quantum nature of fibration abduction attention. A LLM paradigm shift from similarity to explanation.
+
