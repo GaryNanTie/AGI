@@ -61,3 +61,4 @@ A fibration lifting, jointly learns from query context and language semantics
 
 'Quantum Attention' - The quantum nature of fibration abduction attention. A LLM paradigm shift from similarity to explanation.
 
+'Quantum Attention Algorithm' DOI: 10.13140/RG.2.2.16357.87522
