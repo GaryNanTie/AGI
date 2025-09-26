@@ -62,3 +62,14 @@ A fibration lifting, jointly learns from query context and language semantics
 'Quantum Attention' - The quantum nature of fibration abduction attention. A LLM paradigm shift from similarity to explanation.
 
 'Quantum Attention Algorithm' DOI: 10.13140/RG.2.2.16357.87522
+
+
+'Attention Entanglement' - Transformer attention uses statistical correlation to update queries, and 
+fibration abduction attention on top, takes into account key-value semantics,finding a key to explain 
+the value returned.  The latter has a quantum interpretation, indeed a fibration lifting is an entanglement.  
+Entanglements (inner loop) can be refined using a Renyi α-entropy criterion, as part of a simultaneous 
+query and key update (outer loop).  Thus the value returned then reflects refinement of both 
+query-key similarity and key-value semantics.
+
+
+
