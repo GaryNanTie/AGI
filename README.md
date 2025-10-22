@@ -72,4 +72,6 @@ query and key update (outer loop).  Thus the value returned then reflects refine
 query-key similarity and key-value semantics.
 
 
-
+'Domain Specific Abductive Attention'
+DOI 10.5281/zenodo.17413742
+- a mathematically grounded structure (fibrations and liftings) to perform constrained, explainable, abductive reasoning within specialized domains, directly addressing the critical flaws of hallucination and lack of domain specificity.
