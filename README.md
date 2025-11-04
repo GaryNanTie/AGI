@@ -75,3 +75,8 @@ query-key similarity and key-value semantics.
 'Domain Specific Abductive Attention'
 DOI 10.5281/zenodo.17413742
 - a mathematically grounded structure (fibrations and liftings) to perform constrained, explainable, abductive reasoning within specialized domains, directly addressing the critical flaws of hallucination and lack of domain specificity.
+
+
+'Chu-former' - a semantic bridge from questions to answers 
+via Chu duality in a fibration attention mechanism
+DOI: 10.13140/RG.2.2.36204.22403
