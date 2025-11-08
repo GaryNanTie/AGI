@@ -80,3 +80,6 @@ DOI 10.5281/zenodo.17413742
 'Chu-former' - a semantic bridge from questions to answers 
 via Chu duality in a fibration attention mechanism
 DOI: 10.13140/RG.2.2.36204.22403
+
+
+'Ouroboros' - Chats on the implications and applications of Chu-former on LLM.
