@@ -88,3 +88,7 @@ DOI: 10.13140/RG.2.2.36204.22403
 'Amortized Chu-former' - fast semantic handshakes
 DOI: 10.13140/RG.2.2.24574.86082
 Chu-former semantic handshakes between questions and answers are achieved by learning a pair of fibration liftings.  We introduce an amortized version to reduce the computational burden at the expense of approximate explanation.
+
+
+'Lost in translation'
+Chu-former attention can used in LLM for next token Q&A or translation and even medical differential diagnosus.
