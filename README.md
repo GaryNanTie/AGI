@@ -92,3 +92,7 @@ Chu-former semantic handshakes between questions and answers are achieved by lea
 
 'Lost in translation'
 Chu-former attention can be used in LLM for next token Q&A or translation and even medical differential diagnosus.
+
+
+'Aperioc Mechanism' Attention via an implict model.
+DOI: 10.13140/RG.2.2.24092.14725
