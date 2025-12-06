@@ -96,3 +96,8 @@ Chu-former attention can be used in LLM for next token Q&A or translation and ev
 
 'Aperioc Mechanism' Attention via an implict model.
 DOI: 10.13140/RG.2.2.24092.14725
+
+
+'Noken: implicit contextual token learning'
+DOI: 10.13140/RG.2.2.17440.24329
+Given a token in a context string, an implicit deep learning model reveals a latent token, that we dub a ‘noken’, and token representations, such that keys embue meaning to queries and values.  This construction can then be construed as a machine oracle that aligns meaning utilizing a universal interlingua for next-token and sequence-to-sequence learning.
