@@ -111,3 +111,5 @@ Six variations to update and refine a query are presented, each a method for nex
 'Noken squared' - implicit implicit contextual token learning 
 DOI: 10.13140/RG.2.2.20497.49768
 Composing implicit token models is a way to update queries in a query-key-value attention mechanism.  Coherent refinement is achieved when Renyi α-entropy is reduced.  This approach jointly learns query, key, value embeddings and query updates, coordinated by concatenated implicit models.
+
+'Thinking machines via Noken networks' DOI: 10.13140/RG.2.2.10400.85765
