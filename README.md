@@ -95,21 +95,21 @@ Chu-former attention can be used in LLM for next token Q&A or translation and ev
 
 
 'Aperioc Mechanism' Attention via an implict model.
-DOI: 10.13140/RG.2.2.24092.14725
+DOI: 10.13140/RG.2.2.24092.14725/1
 
 
 'Noken: implicit contextual token learning'
-DOI: 10.13140/RG.2.2.17440.24329
+DOI: 10.13140/RG.2.2.17440.24329/1
 Given a token in a context string, an implicit deep learning model reveals a latent token, that we dub a ‘noken’, and token representations, such that keys embue meaning to queries and values.  This construction can then be construed as a machine oracle that aligns meaning utilizing a universal interlingua for next-token and sequence-to-sequence learning.
 
 
 'Noken variations'
-DOI: 10.13140/RG.2.2.33204.92805
+DOI: 10.13140/RG.2.2.33204.92805/1
 Six variations to update and refine a query are presented, each a method for next-token or sequence-to-sequence learning.
 
 
 'Noken squared' - implicit implicit contextual token learning 
-DOI: 10.13140/RG.2.2.20497.49768
+DOI: 10.13140/RG.2.2.20497.49768/1
 Composing implicit token models is a way to update queries in a query-key-value attention mechanism.  Coherent refinement is achieved when Renyi α-entropy is reduced.  This approach jointly learns query, key, value embeddings and query updates, coordinated by concatenated implicit models.
 
-'Thinking machines via Noken networks' DOI: 10.13140/RG.2.2.10400.85765
+'Thinking machines via Noken networks' DOI: 10.13140/RG.2.2.10400.85765/1
