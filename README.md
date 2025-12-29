@@ -113,3 +113,9 @@ DOI: 10.13140/RG.2.2.20497.49768/1
 Composing implicit token models is a way to update queries in a query-key-value attention mechanism.  Coherent refinement is achieved when Renyi α-entropy is reduced.  This approach jointly learns query, key, value embeddings and query updates, coordinated by concatenated implicit models.
 
 'Thinking machines via Noken networks' DOI: 10.13140/RG.2.2.10400.85765/1
+
+
+'Sematic Attention via Noken Nen' DOI: 10.13140/RG.2.2.10508.99202
+Noken, implicit deep learning models, can be composed into cascades, as well as connected into feedback loops, like Zen Nen.  Given a target input token from a context string, we can take a draw from a distribution over the string centered at the target, to provide auxiliary contextual information.  A Noken, a latent token representing the target, can be potentially refined in a cascade, or iterated in a feedback loop, to utilize the auxiliary information of the drawn token.  Convolution like network configurations are explored to reduce average Renyi α-entropy, for the purposes of zero-shot next-token and sequence-to-sequence learning.  Beyond statistical correlation, Noken networks introduce a novel attention mechanism based on semantic architecture.
+
+
