@@ -117,3 +117,9 @@ Composing implicit token models is a way to update queries in a query-key-value 
 
 'Sematic Attention via Noken Nen' DOI: 10.13140/RG.2.2.10508.99202
 Noken, implicit deep learning models, can be composed into cascades, as well as connected into feedback loops, like Zen Nen.  Given a target input token from a context string, we can take a draw from a distribution over the string centered at the target, to provide auxiliary contextual information.  A Noken, a latent token representing the target, can be potentially refined in a cascade, or iterated in a feedback loop, to utilize the auxiliary information of the drawn token.  Convolution like network configurations are explored to reduce average Renyi α-entropy, for the purposes of zero-shot next-token and sequence-to-sequence learning.  Beyond statistical correlation, Noken networks introduce a novel attention mechanism based on semantic architecture.
+
+
+'Semantic Transfer Learning' DOI:10.13140/RG.2.2.36220.40324
+ For the purposes of zero-shot next-token and sequence-to-sequence learning, Noken implicit deep learning models, can be composed and connected into feedback loops, enabling a myriad of network configurations to be explored, and so find ways to lower average entropy.  Beyond statistical correlations, this novel attention mechanism is based on semantic architecture.  
+	Suppose we have learned the semantics of two different subject domains and want to explore interdisciplinary inquiries.  Without starting over from scratch and training on the all combined data (which may in fact muddle matters) we introduce an algorithm to leverage and transfer the individual semantics to make sense of the interdisciplinary corpus.
+
