@@ -123,3 +123,6 @@ Noken, implicit deep learning models, can be composed into cascades, as well as 
  For the purposes of zero-shot next-token and sequence-to-sequence learning, Noken implicit deep learning models, can be composed and connected into feedback loops, enabling a myriad of network configurations to be explored, and so find ways to lower average entropy.  Beyond statistical correlations, this novel attention mechanism is based on semantic architecture.  
 	Suppose we have learned the semantics of two different subject domains and want to explore interdisciplinary inquiries.  Without starting over from scratch and training on the all combined data (which may in fact muddle matters) we introduce an algorithm to leverage and transfer the individual semantics to make sense of the interdisciplinary corpus.
 
+
+'Noken Rademacher Descent' DOI: 10.13140/RG.2.2.20368.47367
+Semantic refinement of Noken attention, via query-key similarity alignment, can be achieved by Rademacher descent of implicit model hyperparameters.
