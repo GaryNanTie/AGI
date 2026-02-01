@@ -132,5 +132,5 @@ Semantic refinement of Noken attention, via query-key similarity alignment, can 
 Beyond statistical correlation,  for the purposes of next-token and sequence-to-sequence token learning, networks of Noken implicit deep learning models with low Renyi α-entropy are sought, in order to sharpen semantic alignment between queries and keys.  Genetic algorithms, guided by evolutionary natural selection, are an efficient and systematic way to generate such Noken networks.
 
 
-'Noken GA Supplement' DOI: 10.13140/RG.2.2.26289.65125
-Further Noken genetic operators: Kronecker and Hadamard
+'Noken GA Supplement' DOI: 10.13140/RG.2.2.26289.65125/1
+Further Noken genetic operators: Kronecker, Hadamard, Convolution
