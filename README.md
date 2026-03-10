@@ -138,5 +138,5 @@ Further Noken genetic operators: Kronecker, Hadamard, Convolution, Rank-one oper
 
 
 'Implicitly learning token semantics' 
-DOI:10.13140/RG.2.2.30432.34566
-A fast implicit recurrent deep learning model of semantic attention is proposed for the purposes of large language model next-token and sequence-to-sequence learning. Roken (Recurrent Noken)
+DOI:10.13140/RG.2.2.30432.34566/1
+Roken, a fast implicit recurrent deep learning model of semantic attention is proposed for the purposes of large language model next-token and sequence-to-sequence learning. Roken (Recurrent Noken)
