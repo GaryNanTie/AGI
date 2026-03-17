@@ -144,3 +144,9 @@ Roken, a fast implicit recurrent deep learning model of semantic attention is pr
 
 'Zanshin: syntactic and semantic attention' 
 DOI:10.13140/RG.2.2.23916.42883
+
+
+'Implicit Attention' DOI:10.13140/RG.2.2.17844.51844
+We introduce systematic joint learning of query, key and value embeddings for transformer attention via an implicit deep learning model hierarchy that refines and aligns semantics.
+
+
