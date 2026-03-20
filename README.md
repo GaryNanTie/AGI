@@ -150,3 +150,6 @@ DOI:10.13140/RG.2.2.23916.42883
 We introduce systematic joint learning of query, key and value embeddings for transformer attention via an implicit deep learning model hierarchy that refines and aligns semantics.
 
 
+'Imformer: an implicit model of attention'
+DOI:10.13140/RG.2.2.11585.83041
+An attention mechanism is integrated with embeddings jointly learned from an implicit deep learning model.
