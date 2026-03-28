@@ -153,3 +153,7 @@ We introduce systematic joint learning of query, key and value embeddings for tr
 'Imformer: an implicit model of attention'
 DOI:10.13140/RG.2.2.11585.83041
 An attention mechanism is integrated with embeddings jointly learned from an implicit deep learning model.
+
+
+'Noken Descent' DOI:10.13140/RG.2.2.12733.01766
+Insight as to why attention works. A Noken implicit model is used to jointly learn query, key and value embeddings. In this context, a query update refines query-key alignment by lowering entropy. On this systematic foundation, we then learn layers of feed forward networks to polish perplexity, resulting in a coherent attention mechanism.
