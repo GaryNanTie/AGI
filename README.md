@@ -161,3 +161,13 @@ Implicit modeling of cross attention for seq-to-seq learning.
 
 'Noken Descent' DOI:10.13140/RG.2.2.12733.01766
 Insight as to why attention works. A Noken implicit model is used to jointly learn query, key and value embeddings. In this context, a query update refines query-key alignment by lowering entropy. On this systematic foundation, we then learn layers of feed forward networks to polish perplexity, resulting in a coherent attention mechanism.
+
+
+'Imformer-squared' DOI:10.13140/RG.2.2.32606.80966
+Imformer-squared is the concatenation of two implicit models, the 
+first Noken implicit model on tokens learns contextual representations, then on 
+these a second Noken implicit model jointly learns query-key-value embeddings, 
+to capture and align meaning from context.  Finally, to minimize perplexity, we 
+apply a feed forward network.
+
+
