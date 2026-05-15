@@ -171,7 +171,7 @@ to capture and align meaning from context.  Finally, to minimize perplexity, we
 apply a feed forward network.
 
 
-'Attention to Syntax and Semantics' DOI:10.13140/RG.2.2.11175.71841
+'Attention to Syntax and Semantics' DOI:10.13140/RG.2.2.32907.45600
 We introduce a new attention mechanism for both syntax and semantics.
 An implicit deep learning model is used to jointly learn Q-K-V embeddings 
 and contextual token representations designed to simultaneously capture
