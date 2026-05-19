@@ -178,5 +178,9 @@ and contextual token representations designed to simultaneously capture
 syntactic co-occurrence and semantic alignment.
 
 
+'Implicit Semantic Attention' DOI: 10.13140/RG.2.2.21546.79048
+Implicit deep learning models are used to jointly learn Q-K-V embeddings and contextual token representations designed to simultaneously capture language syntactic co-occurrence and semantic alignment.  Four fundamental parameterizations elucidate different subtle and nuanced ways syntax and semantics can interact.  They may be construed as different cognitive regimes: retrieval, prediction, abstraction, deliberation.
+
+
 
 
