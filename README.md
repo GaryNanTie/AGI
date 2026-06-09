@@ -182,5 +182,7 @@ syntactic co-occurrence and semantic alignment.
 Implicit deep learning models are used to jointly learn Q-K-V embeddings and contextual token representations designed to simultaneously capture language syntactic co-occurrence and semantic alignment. Six fundamental parameterizations elucidate different subtle and nuanced ways syntax and semantics can interact.  They may be construed as different cognitive regimes: like retrieval, prediction, abstraction, deliberation.
 
 
+'Linguistic Cognitive Regimes' DOI:10.13140/RG.2.2.23797.54243
+We introduce a novel  implicit attention mechanism for large language modeling.  It reveals six possible kinds of distinct cognitive regimes naturally inherent in language.
 
 
