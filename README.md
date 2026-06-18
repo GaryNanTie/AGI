@@ -186,3 +186,5 @@ Implicit deep learning models are used to jointly learn Q-K-V embeddings and con
 We introduce a novel  implicit attention mechanism for large language modeling.  It reveals six possible kinds of distinct cognitive regimes naturally inherent in language.
 
 
+'Roken - a recurrent implicit dynmaic LLM' DOI:10.13140/RG.2.2.24626.57284
+Roken - recurrent Noken, a dynamic implicit deep learning model of attention, designed to integrate state tracking  into large language model next-token and sequence-to-sequence learning.
