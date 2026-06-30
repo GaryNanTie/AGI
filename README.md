@@ -190,7 +190,7 @@ We introduce a novel  implicit attention mechanism for large language modeling. 
 Roken - recurrent Noken, a dynamic implicit deep learning model of attention, designed to integrate state tracking  into large language model next-token and sequence-to-sequence learning.
 
 
-'Roken Redux' DOI:10.13140/RG.2.2.15680.08963
+'Roken Redux' DOI:10.13140/RG.2.2.33741.81126
 Roken, a novel LLM algorithm characterized by scalable parallel transformer inference, structured on pre-trained ImplicitRNN state machines.
 
 
