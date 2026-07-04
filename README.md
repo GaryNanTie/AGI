@@ -194,3 +194,8 @@ Roken - recurrent Noken, a dynamic implicit deep learning model of attention, de
 Roken, a novel LLM algorithm characterized by scalable parallel transformer inference, structured on pre-trained ImplicitRNN state machines.
 
 
+'Alice Through the Word Embedding' DOI:10.13140/RG.2.2.34901.79841
+For the purposes of next-token and sequence-to sequence learning, Alice is a parsimonious state machine that combines a recurrent implicit deep learning model transition with an attention-based output over learned fixed points, jointly optimized for syntactic prediction and semantic coherence within a word embedding space.
+
+
+
