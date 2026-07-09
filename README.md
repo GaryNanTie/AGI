@@ -197,5 +197,13 @@ Roken, a novel LLM algorithm characterized by scalable parallel transformer infe
 'Alice Through the Word Embedding' DOI:10.13140/RG.2.2.34901.79841
 For the purposes of next-token and sequence-to sequence learning, Alice is a parsimonious state machine that combines a recurrent implicit deep learning model transition with an attention-based output over learned fixed points, jointly optimized for syntactic prediction and semantic coherence within a word embedding space.
 
+'Strategies for learning O(hi) token continuations'
+DOI:10.13140/RG.2.2.16884.31366
+
+'State deformation from word embedding to LLM'
+DOI:10.13140/RG.2.2.26347.71204
+
+
+
 
 
