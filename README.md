@@ -204,6 +204,7 @@ DOI:10.13140/RG.2.2.16884.31366
 DOI:10.13140/RG.2.2.26347.71204
 
 
-
+'Coherent Domain Adaptation' DOI:10.13140/RG.2.2.10098.06084
+For a LLM pre-trained on a large generic corpus, we introduce a coherent way to transfer this general knowledge to training a domain-specific LLM.
 
 
