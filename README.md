@@ -208,3 +208,8 @@ DOI:10.13140/RG.2.2.26347.71204
 For a LLM pre-trained on a large generic corpus, we introduce a coherent way to transfer this general knowledge to training a domain-specific LLM.
 
 
+'Alice in Parallel' DOI:10.13140/RG.2.2.18755.36641
+Alice, a fast parallel state machine LLM that combines a recurrent implicit deep learning model transition with an attention-based output over learned fixed points, is optimized for syntactic prediction and semantic coherence within a word embedding space.  This state machine foundation grounds transformer attention in meaning.  Surprisingly scaling works, but ultimately meaning matters more!
+
+
+
