@@ -215,3 +215,6 @@ Alice, a fast parallel state machine LLM that combines a recurrent implicit deep
 ‘Learning Textual Entailment and Abduction’ DOI:10.13140/RG.2.2.28712.53765
 We introduce textual entailment and abductive reasoning, in the context of a fast parallel version of Alice, a state machine LLM that combines a recurrent implicit deep learning model transition with an attention-based output over learned fixed points, optimized for syntactic prediction and semantic coherence within a word embedding space.
 
+
+‘Implicit Meta-Attention’ DOI:10.13140/RG.2.2.26345.86886
+Attention works because token context is taken into account.  Implicit deep learning models of attention are composable resulting in a context of contexts, meta-attention so to speak.  This mechanism potentially makes LLM more robust against drift and hallucinations.
