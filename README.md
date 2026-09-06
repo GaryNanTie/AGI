@@ -218,3 +218,10 @@ We introduce textual entailment and abductive reasoning, in the context of a fas
 
 ‘Implicit Meta-Attention’ DOI:10.13140/RG.2.2.26345.86886
 Attention works because token context is taken into account.  Implicit deep learning models of attention are composable resulting in a context of contexts, meta-attention so to speak.  This mechanism potentially makes LLM more robust against drift and hallucinations.
+
+
+‘Psychopathology in silico’ DOI:10.13140/RG.2.2.30405.82400
+State machine dynamics of LLM Alice have psychopathologic parallels 
+to explore and understand hallucination.
+
+
