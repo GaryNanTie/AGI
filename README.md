@@ -225,3 +225,7 @@ State machine dynamics of LLM Alice have psychopathologic parallels
 to explore and understand hallucination.
 
 
+‘CIRA: Cascaded Implicit Recurrent Attention’ DOI:10.13140/RG.2.2.16058.35521
+A semantic-to-contextual language model with entropy-regularized fixed-point attention.
+
+
