@@ -229,3 +229,6 @@ to explore and understand hallucination.
 A semantic-to-contextual language model with entropy-regularized fixed-point attention.
 
 
+‘LLM Semiotic Capacity’ DOI:10.13140/RG.2.2.23165.73441
+Our semiotic channel communicating meaning is an implicit state machine LLM, where we operationalize meaning using a similarity function.  In particular messages are interpreted by those that entail it, and we profile channel capacity by mapping message entropy against interpretation mutual information.  
+LLM that result in profiles with higher overall mutual information are sought for identification, certification and comparison of LLMs.  This provides a rigorous and actionable framework for understanding, evaluating, and designing LLM-mediated communication between AI agents.
