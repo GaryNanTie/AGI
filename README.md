@@ -236,4 +236,6 @@ LLM that result in profiles with higher overall mutual information are sought fo
 
 ‘Alice - the semiotic state machine LLM’
 DOI:10.13140/RG.2.2.22936.35844
-This machine epistemology allows us to ask: what follows, what is excluded and what could explain it.  Logical reasoning via the semiotic hexagon and genetic algorithm selection make possible recursive swarm improvement towards thinking machines.
+We introduce a refinement of a  state machine LLM that combines a recurrent implicit deep learning model transition with an attention-based output over learned key-value fixed points, optimized for syntactic prediction and semantic coherence within a word embedding space.
+Beyond merely predicting text the novel architecture explicitly constructs semantic state trajectories, tests entailment/contradiction, performs abduction, and enables a semiotic channel between AI agents.  LLM Alice with textual entailment, is a formal state machine semantics, a model of theory OHTT, Open Horn Type Theory, HoTT without the Kan condition [Poernomo, 2025, the trichotomy: coherent is to entail, gapped is to contradict, and open is neutral].  This machine epistemology allows us to ask: what follows, what is excluded and what could explain it.  OHTT logical reasoning via the semiotic hexagon and genetic algorithm selection make possible recursive swarm improvement towards thinking machines.
+
