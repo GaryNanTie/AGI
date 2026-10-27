@@ -249,3 +249,10 @@ A semiotic LLM semantics of a dependent type theory.
 
 ‘Reasoning Machines’ DOI:10.13140/RG.2.2.23761.70244
 We distill large language models into large reasoning models via implicit recurrent deep learning.  Attention and logic are entwined; the distributions of Transformer attention query updates over keys define a compositional relation between judgements in Open Horn Type Theory (OHTT).  Dependent type theory OHTT is sound, has semiotic logical hexagon reasoning, and enables abductive inference that reverses entailment.
+
+
+‘Reasoning via Implicit Attention Logic’
+DOI: 10.13140/RG.2.2.24799.62881
+An implicit deep learning model defines an attention mechanism for a LLM.  
+In turn, the LLM is a semantics for a dependent type theory.  This yields a 
+novel reasoning model defined implicitly.
